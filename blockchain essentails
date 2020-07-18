@@ -1,0 +1,45 @@
+Let’s Upgrade – Blockchain Essentials 
+Batch 1
+Assignment Day – 1
+
+Question 1:
+What is your understanding of Blockchain?
+Answer:
+1.blockchain is a mixture of two technologies - a distributed database and cryptography
+2.blockchain consists of different blocks containing- hash of the previous block(signature), the current signature, block number, transition records and mining key.
+3. and so many such blocks containing the hash of the previous block forms a blockchain
+4. it acts as a distributed ledger
+
+Question 2:
+ What is the core problem Blockchain trying to solve?
+Answer:
+Blockchain Addresses the Problem of Data Security and Trust by Making the Ledger Public. Hardware and software errors are not the only data security issue. The blockchain has to also protect itself from willful fraud and theft.
+
+Question 3:
+What are the few features which Blockchain will give you?
+Answer:
+1. Verifiable
+2. Unchangeable
+3. Tamper proof
+4. Immutable
+5. Decentralized
+
+Question 4:
+What all things does a Block Contain?
+Answer:
+1. Block number.
+2. Records.
+3. Previous block signature.
+4. Current Block signature
+5. Mining Key
+
+Question 5:
+How is the verifiability of Blockchain is been attained?
+Answer:
+Verifiability can be checked by the signature or the hash that has been mined by the miner then that is checked by different miners and approved if there is any other result in the signature it is corrected.
+So in laymen terms, it is the signature of each block tells us that the ledger is a valid one.
+
+
+-BY
+GOWTHAM J
+rajgowtham131@gmail.com
